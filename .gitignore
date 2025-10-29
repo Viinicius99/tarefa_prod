@@ -1,0 +1,14 @@
+# Dependências e caches
+node_modules/
+dist/
+
+# Ambiente/segredos
+.env
+.env.local
+.env.*.local
+
+# Editor/OS
+.DS_Store
+.vercel
+.vscode/
+*.log
